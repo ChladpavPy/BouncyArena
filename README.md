@@ -15,6 +15,10 @@ The third button in the main menu is "Back" which closes the game.
 It's a simple but fun game.
 Have fun!
 
+# Images
+- ### Game
+  ![Gameplay(Images/bouncyarena.png)
+
 # Special thanks
 - we made this game during * [Hack Club](https://haven.hackclub.com/prague) program
 
