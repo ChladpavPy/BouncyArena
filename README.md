@@ -1,6 +1,7 @@
 This game is called Bouncy arena.
 
-#Describtion
+# Description
+
 It's an exciting mix of a gladiator and monster fighter game.
 In the main menu, you have three options. 
 The first is "Start" which forwards you to the stats customization screen, where you have 5 points available at the start and five categories that you can assign any number of points 
@@ -14,16 +15,16 @@ The third button in the main menu is "Back" which closes the game.
 It's a simple but fun game.
 Have fun!
 
-#Special thanks
+# Special thanks
 - we made this game during * [Hack Club](https://haven.hackclub.com/prague) program
 
 
-##How to play?
+## How to play?
 
 Select the stats, for example better strength, agility, defence and then fight the boss in the  arena!
 
 
-##Controls 
+## Controls 
 
 - AD/arrows for movement
 
@@ -33,7 +34,7 @@ Select the stats, for example better strength, agility, defence and then fight t
 
 - Shift to sprint
 
-#Authors: 
+# Authors: 
 - Tomáš Kolda https://github.com/llsmTom
 - Pavel Chládek https://github.com/ChladpavPy
 - Tobiáš Břečka https://github.com/Tobbigfoot 
