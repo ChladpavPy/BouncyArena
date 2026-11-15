@@ -20,7 +20,7 @@ Select the stats, for example better strength, agility, defence and then fight t
 
 Controls 
 
-WSAD for movement
+AD/arrows for movement
 
 Left mouse button to attack
 
