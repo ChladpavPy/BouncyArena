@@ -11,3 +11,18 @@ The third button in the main menu is "Back" which closes the game.
 
 It's a simple but fun game.
 Have fun!
+
+
+How do you play it?
+
+Select the stats, for example better strength, agility, defence and then fight the boss in the  arena!
+
+
+Controls 
+
+WSAD for movement
+
+Left mouse button to attack
+
+Space to jump
+
