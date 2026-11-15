@@ -17,7 +17,7 @@ Have fun!
 
 # Images
 - ### Game
-  ![Gameplay(Images/bouncyarena.png)
+![Gameplay(Images/bouncyarena.png)
 
 # Special thanks
 - we made this game during * [Hack Club](https://haven.hackclub.com/prague) program
