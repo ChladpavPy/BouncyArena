@@ -28,3 +28,7 @@ Space to jump
 
 Shift to sprint
 
+Authors: 
+Tomáš Kolda https://github.com/llsmTom
+Pavel Chládek https://github.com/ChladpavPy
+Tobiáš Břečka https://github.com/Tobbigfoot 
