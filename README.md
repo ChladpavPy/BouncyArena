@@ -32,3 +32,9 @@ Authors:
 Tomáš Kolda https://github.com/llsmTom
 Pavel Chládek https://github.com/ChladpavPy
 Tobiáš Břečka https://github.com/Tobbigfoot 
+
+
+
+Play on Itch.io
+https://chladpavpy.itch.io/bouncyarena
+
