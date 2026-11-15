@@ -18,8 +18,8 @@ Have fun!
 ### Images
 ![Game](images/gamebouncy.png)
 ![Game](images/bouncyarena.png)
+![Game](images/bouncyarena1.png)
 ![Game](images/bouncyarena2.png)
-![Game](images/bouncyarena3.png)
 
 
 
