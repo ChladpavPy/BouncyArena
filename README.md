@@ -26,3 +26,5 @@ Left mouse button to attack
 
 Space to jump
 
+Shift to sprint
+
